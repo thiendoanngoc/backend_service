@@ -1,0 +1,36 @@
+{
+	"I001": "Thực hiện thành công!",
+	"I002": "Bạn đã nhận 1 task mới!",
+	"I003": "Task của bạn đã được cập nhật!",
+	"I004": "Task của bạn đang gần tới deadline!",
+	"I005": "Công ty có thông báo mới!",
+	"I006": "Công việc mới!",
+	"I007": "Công việc được cập nhật!",
+	"I008": "Nhân viên yêu cầu đánh giá!",
+	"I009": "Nhân viên từ chối công việc!",
+	"I010": "Trạng thái công việc được cập nhật!",
+	"I011": "Công việc được đánh giá chưa hoàn thành",
+	"I012": "Yêu cầu hủy công việc bị từ chối",
+	"I013": "Công việc được đánh giá hoàn thành",
+	"I014": "Yêu cầu hủy công việc được chấp nhận",
+
+	"I015": "Bạn được mời tham gia 1 cuộc bình chọn",
+	"I016": "Cuộc bình chọn được cập nhật",
+
+	"E001": "Lỗi server!",
+	"E002": "Thực hiện thất bại!",
+	"E003": "Token không đúng!",
+	"E004": "Bạn không có quyền thực hiện chức năng này!",
+	"E005": "Công ty không đúng!",
+	"E006": "Username hoặc password không đúng!",
+	"E007": "Phiên đăng nhập hết hạn!",
+	"E008": "Lỗi đầu vào!",
+	"E009": "Xin đừng tự tay bóp chim =]]]",
+	"E010": "Yêu cầu OTP thất bại!",
+	"E011": "Mã OTP không hợp lệ!",
+
+	"C001": "Bạn chắc chứ?",
+
+	"F010": "Bữa sáng",
+	"F011": "Bữa tối"
+}

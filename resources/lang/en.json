@@ -1,0 +1,36 @@
+{
+	"I001": "Execution succeeded!",
+	"I002": "You have received a new task!",
+	"I003": "Your task have been updated!",
+	"I004": "Your task is near deadline!",
+	"I005": "New announcement!",
+	"I006": "New task!",
+	"I007": "Task is updated!",
+	"I008": "Staff request review",
+	"I009": "Staff reject task",
+	"I010": "Task status is updated!",
+	"I011": "Task is review as Not Done",
+	"I012": "Cancel task request is rejected",
+	"I013": "Task is review as Done",
+	"I014": "Cancel task request is approved",
+
+	"I015": "You are invited to a voting",
+	"I016": "Voting topic is updated",
+
+	"E001": "Internal Server Error!",
+	"E002": "Execution failed!",
+	"E003": "Invalid Token!",
+	"E004": "Invalid Permission!",
+	"E005": "Invalid Company!",
+	"E006": "Invalid username or password!",
+	"E007": "Session expired!",
+	"E008": "Validation failed!",
+	"E009": "Please don't do that =]]]",
+	"E010": "Request OTP failed!",
+	"E011": "Invalid OTP code!",
+
+	"C001": "Are you sure?",
+
+	"F010": "Breakfast",
+	"F011": "Lunch"
+}
